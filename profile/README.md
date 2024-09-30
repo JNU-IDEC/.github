@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- [JNU-IDEC Development Server: User Guide](https://github.com/ParkDongho/jnu-idec-server-user) : 권한 필요
+
 <!--
 
 **Here are some ideas to get you started:**
